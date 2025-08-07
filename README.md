@@ -1,6 +1,9 @@
-IT1110 - Fundamental Informatics Practice Guide
+Introduction-to-Informatics
+
 The exercises focus on basic C programming concepts.
+
 Overview
+
 The practice sessions cover C programming fundamentals, including:
 
 Basic input/output operations
